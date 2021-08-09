@@ -24571,6 +24571,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1485765932, guid: 671daf47bd05f6346a9b22dd1349fc89, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 9198958719939123118, guid: 671daf47bd05f6346a9b22dd1349fc89, type: 3}
       propertyPath: m_Name
       value: Game Session
@@ -25426,15 +25430,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7402213230681987329, guid: c8bbaff8a4a9d7544a14ef4295f0d3f6, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.851715
+      value: -8.422295
       objectReference: {fileID: 0}
     - target: {fileID: 7402213230681987329, guid: c8bbaff8a4a9d7544a14ef4295f0d3f6, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.7114493
+      value: -0.28854883
       objectReference: {fileID: 0}
     - target: {fileID: 7402213230681987582, guid: c8bbaff8a4a9d7544a14ef4295f0d3f6, type: 3}
       propertyPath: orthographic size
-      value: 7
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7402213230761105124, guid: c8bbaff8a4a9d7544a14ef4295f0d3f6, type: 3}
       propertyPath: m_LocalPosition.x

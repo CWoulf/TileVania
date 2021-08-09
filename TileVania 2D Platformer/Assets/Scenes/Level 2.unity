@@ -300,6 +300,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1485765932, guid: 671daf47bd05f6346a9b22dd1349fc89, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 9198958719939123118, guid: 671daf47bd05f6346a9b22dd1349fc89, type: 3}
       propertyPath: m_Name
       value: Game Session
