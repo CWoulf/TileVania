@@ -47,7 +47,7 @@ public class GameSession : MonoBehaviour
         }
     }
 
-    private void ResetGameSession()
+    public void ResetGameSession()
     {
         SceneManager.LoadScene(0);
         Destroy(gameObject);
